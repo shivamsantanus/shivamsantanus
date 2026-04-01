@@ -46,15 +46,6 @@ An intelligent bidding & expense tracking platform.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamsantanus&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsantanus&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamsantanus&theme=tokyo-night)](https://github.com/shivamsantanus)
