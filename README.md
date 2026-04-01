@@ -32,17 +32,9 @@ An intelligent bidding & expense tracking platform.
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-Angular • Next.js • TypeScript • Tailwind  
-
-**Backend**  
-.NET • C# • Node.js  
-
-**Database**  
-PostgreSQL • CouchDB • Prisma  
-
-**Tools**  
-Docker • Git • Cursor  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,nextjs,ts,tailwind,dotnet,cs,nodejs,postgres,docker,git" />
+</p>
 
 ---
 
