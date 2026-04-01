@@ -52,12 +52,6 @@ An intelligent bidding & expense tracking platform.
 
 ---
 
-## 🐍 Contribution Snake (Optional)
-
-![snake gif](https://github.com/shivamsantanus/shivamsantanus/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shivamsantanu/  
