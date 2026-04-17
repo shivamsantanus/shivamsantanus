@@ -41,7 +41,7 @@ An intelligent bidding & expense tracking platform.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamsantanus&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=1" />
+  <img src="https://streak-stats.demolab.com?user=shivamsantanus&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&count_private=true&v=apr17" />
 </p>
 
 ---
