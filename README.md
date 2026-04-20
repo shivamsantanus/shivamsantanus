@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Santanu</h1>
+<img width="1316" height="349" alt="image" src="https://github.com/user-attachments/assets/3a251896-6ccb-4b8e-8789-3caca0e382fa" /><h1 align="center">Hi 👋, I'm Shivam Santanu</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+.NET+%7C+Next.js;Building+Scalable+Apps;Always+Learning+New+Tech" />
@@ -40,8 +40,7 @@ An intelligent bidding & expense tracking platform.
 
 ## 🔥 GitHub Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shivamsantanus&theme=tokyonight&hide_border=true&v=${Date.now()}" /></p>
-
+<img src="https://streak-stats.demolab.com?user=shivamsantanus&theme=tokyonight&hide_border=true&v=timestamp" />
 
 ---
 
