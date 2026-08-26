@@ -38,18 +38,6 @@ An intelligent bidding & expense tracking platform.
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shivamsantanus&theme=tokyonight&hide_border=true&cache_seconds=1&v=2" />
-</p>
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamsantanus&theme=tokyo-night)](https://github.com/shivamsantanus)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shivamsantanu/  
