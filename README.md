@@ -17,16 +17,18 @@ I’m a **Full-Stack Developer** focused on building scalable, real-world applic
 
 ---
 
-## 🔥 Featured Project
+## 🏢 TriS Tech
 
-### 💡 SplitKaro AI  
-An intelligent bidding & expense tracking platform.
+I'm the founder of **[TriS Tech](https://tristech.in)** — a small product studio where I build and ship my own software.
 
-- ⚡ Smart expense splitting  
-- 🤖 AI-driven bidding logic  
-- 📊 Built with Angular, .NET & PostgreSQL  
+| Product | What it is | Status |
+|---|---|---|
+| 💸 **[SplitSmart AI](https://splitkaro.tristech.in/welcome)** | Collaborative expense app for friends, roommates & travel groups — live updates + AI-powered input | 🟢 Live |
+| 🎮 **PS5 Stock Checker** | Monitors PS5 listings across Amazon, Flipkart, Croma, Reliance Digital & Blinkit and alerts on Discord/Telegram the moment stock flips | 🔵 Running 24/7 |
+| 🎬 **SUSAN** | Multi-platform video publisher — one brief to YouTube, Facebook & Instagram, with Gemini-written copy and resumable 10GB+ uploads | 🟡 In progress |
+| 🎓 **ClassNova** | Coaching center management — students, fees, attendance, reports | ⚪ Coming soon |
 
-👉 **Repo:** https://github.com/shivamsantanus/SplitKaro-AI  
+👉 **Open-source repo:** https://github.com/shivamsantanus/SplitKaro-AI  
 
 ---
 
@@ -40,8 +42,9 @@ An intelligent bidding & expense tracking platform.
 
 ## 📫 Connect With Me
 
+- 🌐 Website: https://tristech.in  
 - 💼 LinkedIn: https://www.linkedin.com/in/shivamsantanu/  
-- 📍 Location: Punjab, India  
+- 📍 Location: Cuttack, Odisha, India  
 
 ---
 
